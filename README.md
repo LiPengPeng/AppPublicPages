@@ -1,0 +1,14 @@
+# AppPublicPages
+
+Public marketing, privacy policy, and support pages for apps.
+
+GitHub Pages source:
+
+- Branch: `main`
+- Folder: `/docs`
+
+Current pages:
+
+- GoalOracle by FotMatch: `https://lipengpeng.github.io/AppPublicPages/goaloracle/`
+- Privacy: `https://lipengpeng.github.io/AppPublicPages/goaloracle/privacy.html`
+- Support: `https://lipengpeng.github.io/AppPublicPages/goaloracle/support.html`
