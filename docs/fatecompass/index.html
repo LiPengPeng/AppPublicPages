@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fate - Ba Zi Astrology App</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+        }
+        .hero {
+            background: linear-gradient(135deg, #7c3aed 0%, #a855f7 100%);
+            color: white;
+            padding: 80px 20px;
+            text-align: center;
+        }
+        .hero h1 { font-size: 48px; margin-bottom: 20px; }
+        .hero p { font-size: 20px; margin-bottom: 30px; opacity: 0.9; }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 30px;
+            padding: 60px 20px;
+        }
+        .feature {
+            text-align: center;
+            padding: 30px;
+            border-radius: 12px;
+            background: #f9fafb;
+        }
+        .feature h3 { color: #7c3aed; margin: 15px 0; }
+        .feature-icon { font-size: 48px; margin-bottom: 15px; }
+        h2 { color: #1f2937; text-align: center; margin: 60px 0 40px; font-size: 32px; }
+        .cta {
+            background: #7c3aed;
+            color: white;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 8px;
+            font-size: 16px;
+            cursor: pointer;
+            margin-top: 20px;
+            display: inline-block;
+            text-decoration: none;
+            transition: background 0.3s;
+        }
+        .cta:hover { background: #6d28d9; }
+        .section {
+            padding: 60px 20px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        .section:nth-child(even) { background: #f9fafb; }
+        footer {
+            background: #1f2937;
+            color: white;
+            text-align: center;
+            padding: 40px 20px;
+            margin-top: 60px;
+        }
+        footer a { color: #a78bfa; text-decoration: none; }
+        footer a:hover { text-decoration: underline; }
+        .links {
+            margin: 20px 0;
+        }
+        .links a {
+            margin: 0 15px;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body>
+    <div class="hero">
+        <div class="container">
+            <h1>✨ Fate</h1>
+            <p>Discover Your Ba Zi Destiny</p>
+            <p style="font-size: 16px; opacity: 0.8;">Understand yourself through ancient Chinese astrology. Daily insights, yearly forecasts, and personal readings.</p>
+            <a href="https://apps.apple.com/app/id" class="cta">Download from App Store</a>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="container">
+            <h2>🌟 Features</h2>
+            <div class="features">
+                <div class="feature">
+                    <div class="feature-icon">📊</div>
+                    <h3>Personal Ba Zi Chart</h3>
+                    <p>Get a detailed analysis of your Four Pillars of Destiny with personalized insights about your character and life path.</p>
+                </div>
+                <div class="feature">
+                    <div class="feature-icon">📅</div>
+                    <h3>Daily Readings</h3>
+                    <p>Personalized daily fortunes based on your Ba Zi and today's celestial events.</p>
+                </div>
+                <div class="feature">
+                    <div class="feature-icon">📈</div>
+                    <h3>Yearly Forecasts</h3>
+                    <p>Understand your year ahead with month-by-month predictions for career, love, health, and wealth.</p>
+                </div>
+                <div class="feature">
+                    <div class="feature-icon">💑</div>
+                    <h3>Compatibility Analysis</h3>
+                    <p>Explore your relationship potential with partners or friends through Ba Zi compatibility.</p>
+                </div>
+                <div class="feature">
+                    <div class="feature-icon">🏠</div>
+                    <h3>Feng Shui Insights</h3>
+                    <p>Get personalized recommendations for your living space based on your Ba Zi profile.</p>
+                </div>
+                <div class="feature">
+                    <div class="feature-icon">📚</div>
+                    <h3>Educational Courses</h3>
+                    <p>Learn the fundamentals of Ba Zi, Five Elements, and astrology from expert content.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="container">
+            <h2>🔐 Your Privacy Matters</h2>
+            <p style="font-size: 18px; max-width: 700px; margin: 0 auto;">Your birth information is stored securely on your device by default. We never sell or share your personal data. All readings are generated locally for your privacy.</p>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="container">
+            <h2>🎯 How It Works</h2>
+            <ol style="font-size: 18px; line-height: 2; max-width: 700px; margin: 0 auto;">
+                <li>Enter your birth date, time, and location</li>
+                <li>Fate calculates your Ba Zi (Four Pillars of Destiny)</li>
+                <li>Receive personalized insights about your character and destiny</li>
+                <li>Get daily readings, yearly forecasts, and compatibility analysis</li>
+                <li>Explore courses to deepen your understanding</li>
+            </ol>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <h3 style="margin-bottom: 20px;">Fate - Ba Zi Astrology</h3>
+            <div class="links">
+                <a href="privacy.html">Privacy Policy</a>
+                <a href="terms.html">Terms of Service</a>
+                <a href="support.html">Support & Help</a>
+            </div>
+            <p style="margin-top: 30px; color: #9ca3af;">© 2024 Fate. All rights reserved.</p>
+            <p style="color: #6b7280; font-size: 14px; margin-top: 15px;">For entertainment and educational purposes only.</p>
+        </div>
+    </footer>
+</body>
+</html>
