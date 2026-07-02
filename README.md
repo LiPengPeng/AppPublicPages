@@ -15,3 +15,7 @@ Current pages:
 - QuakeLookup: `https://lipengpeng.github.io/AppPublicPages/QuakeLookup/`
 - QuakeLookup Privacy: `https://lipengpeng.github.io/AppPublicPages/QuakeLookup/privacy.html`
 - QuakeLookup Support: `https://lipengpeng.github.io/AppPublicPages/QuakeLookup/support.html`
+- VibeCode: `https://lipengpeng.github.io/AppPublicPages/vibecode/`
+- VibeCode Privacy: `https://lipengpeng.github.io/AppPublicPages/vibecode/privacy.html`
+- VibeCode Terms: `https://lipengpeng.github.io/AppPublicPages/vibecode/terms.html`
+- VibeCode Support: `https://lipengpeng.github.io/AppPublicPages/vibecode/support.html`
