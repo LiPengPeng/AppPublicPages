@@ -19,3 +19,7 @@ Current pages:
 - VibeCode Privacy: `https://lipengpeng.github.io/AppPublicPages/vibecode/privacy.html`
 - VibeCode Terms: `https://lipengpeng.github.io/AppPublicPages/vibecode/terms.html`
 - VibeCode Support: `https://lipengpeng.github.io/AppPublicPages/vibecode/support.html`
+- 35+还活着么: `https://lipengpeng.github.io/AppPublicPages/aliveafter35/`
+- 35+还活着么 Privacy: `https://lipengpeng.github.io/AppPublicPages/aliveafter35/privacy.html`
+- 35+还活着么 Terms: `https://lipengpeng.github.io/AppPublicPages/aliveafter35/terms.html`
+- 35+还活着么 Support: `https://lipengpeng.github.io/AppPublicPages/aliveafter35/support.html`
