@@ -23,3 +23,7 @@ Current pages:
 - 35+还活着么 Privacy: `https://lipengpeng.github.io/AppPublicPages/aliveafter35/privacy.html`
 - 35+还活着么 Terms: `https://lipengpeng.github.io/AppPublicPages/aliveafter35/terms.html`
 - 35+还活着么 Support: `https://lipengpeng.github.io/AppPublicPages/aliveafter35/support.html`
+- BeautyShorts: `https://lipengpeng.github.io/AppPublicPages/beautyshorts/`
+- BeautyShorts Privacy: `https://lipengpeng.github.io/AppPublicPages/beautyshorts/privacy.html`
+- BeautyShorts Terms: `https://lipengpeng.github.io/AppPublicPages/beautyshorts/terms.html`
+- BeautyShorts Support: `https://lipengpeng.github.io/AppPublicPages/beautyshorts/support.html`
