@@ -27,3 +27,7 @@ Current pages:
 - BeautyShorts Privacy: `https://lipengpeng.github.io/AppPublicPages/beautyshorts/privacy.html`
 - BeautyShorts Terms: `https://lipengpeng.github.io/AppPublicPages/beautyshorts/terms.html`
 - BeautyShorts Support: `https://lipengpeng.github.io/AppPublicPages/beautyshorts/support.html`
+- 生活指南: `https://lipengpeng.github.io/AppPublicPages/lifeguide/`
+- 生活指南 Privacy: `https://lipengpeng.github.io/AppPublicPages/lifeguide/privacy.html`
+- 生活指南 Terms: `https://lipengpeng.github.io/AppPublicPages/lifeguide/terms.html`
+- 生活指南 Support: `https://lipengpeng.github.io/AppPublicPages/lifeguide/support.html`
