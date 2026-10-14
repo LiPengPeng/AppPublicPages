@@ -31,3 +31,7 @@ Current pages:
 - 生活指南 Privacy: `https://lipengpeng.github.io/AppPublicPages/lifeguide/privacy.html`
 - 生活指南 Terms: `https://lipengpeng.github.io/AppPublicPages/lifeguide/terms.html`
 - 生活指南 Support: `https://lipengpeng.github.io/AppPublicPages/lifeguide/support.html`
+- 生活指南繁體中文: `https://lipengpeng.github.io/AppPublicPages/lifeguide/zh-Hant/`
+- 生活指南繁體中文 Privacy: `https://lipengpeng.github.io/AppPublicPages/lifeguide/zh-Hant/privacy.html`
+- 生活指南繁體中文 Terms: `https://lipengpeng.github.io/AppPublicPages/lifeguide/zh-Hant/terms.html`
+- 生活指南繁體中文 Support: `https://lipengpeng.github.io/AppPublicPages/lifeguide/zh-Hant/support.html`
