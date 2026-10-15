@@ -35,3 +35,20 @@ Current pages:
 - 生活指南繁體中文 Privacy: `https://lipengpeng.github.io/AppPublicPages/lifeguide/zh-Hant/privacy.html`
 - 生活指南繁體中文 Terms: `https://lipengpeng.github.io/AppPublicPages/lifeguide/zh-Hant/terms.html`
 - 生活指南繁體中文 Support: `https://lipengpeng.github.io/AppPublicPages/lifeguide/zh-Hant/support.html`
+
+## CrateNote
+
+The CrateNote pages are served from `docs/boxwhere/` on the `main` branch. Each locale has a home page, privacy policy, support page, and terms page. The privacy, support, and terms pages use the same locale directory as the home page.
+
+- Simplified Chinese: <https://lipengpeng.github.io/AppPublicPages/boxwhere/>
+- English: <https://lipengpeng.github.io/AppPublicPages/boxwhere/en/>
+- Traditional Chinese: <https://lipengpeng.github.io/AppPublicPages/boxwhere/zh-Hant/>
+- Japanese: <https://lipengpeng.github.io/AppPublicPages/boxwhere/ja/>
+- Korean: <https://lipengpeng.github.io/AppPublicPages/boxwhere/ko/>
+- Spanish: <https://lipengpeng.github.io/AppPublicPages/boxwhere/es/>
+- German: <https://lipengpeng.github.io/AppPublicPages/boxwhere/de/>
+- French: <https://lipengpeng.github.io/AppPublicPages/boxwhere/fr/>
+- Italian: <https://lipengpeng.github.io/AppPublicPages/boxwhere/it/>
+- Brazilian Portuguese: <https://lipengpeng.github.io/AppPublicPages/boxwhere/pt-BR/>
+
+Regenerate the pages with `python3 tools/generate_boxwhere_pages.py`.
