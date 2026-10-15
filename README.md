@@ -52,3 +52,20 @@ The CrateNote pages are served from `docs/boxwhere/` on the `main` branch. Each 
 - Brazilian Portuguese: <https://lipengpeng.github.io/AppPublicPages/boxwhere/pt-BR/>
 
 Regenerate the pages with `python3 tools/generate_boxwhere_pages.py`.
+
+## ShiftFlow / 班序
+
+The ShiftFlow pages are served from `docs/shiftflow/` on the `main` branch. Each locale has a home page, privacy policy, support page, and terms page.
+
+- Simplified Chinese: <https://lipengpeng.github.io/AppPublicPages/shiftflow/>
+- English: <https://lipengpeng.github.io/AppPublicPages/shiftflow/en/>
+- Traditional Chinese: <https://lipengpeng.github.io/AppPublicPages/shiftflow/zh-Hant/>
+- Japanese: <https://lipengpeng.github.io/AppPublicPages/shiftflow/ja/>
+- Korean: <https://lipengpeng.github.io/AppPublicPages/shiftflow/ko/>
+- Spanish: <https://lipengpeng.github.io/AppPublicPages/shiftflow/es/>
+- German: <https://lipengpeng.github.io/AppPublicPages/shiftflow/de/>
+- French: <https://lipengpeng.github.io/AppPublicPages/shiftflow/fr/>
+- Italian: <https://lipengpeng.github.io/AppPublicPages/shiftflow/it/>
+- Brazilian Portuguese: <https://lipengpeng.github.io/AppPublicPages/shiftflow/pt-BR/>
+
+These pages are generated from the app repository: run `python3 tools/build_public_pages.py` in the `shiftflow` project, which writes both the in-repo drafts and this `docs/shiftflow/` copy.
